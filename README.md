@@ -1,7 +1,15 @@
 <!-- # Maths_PGR_Poster.github.io  -->
 <!-- &nbsp;  -->
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> -->
+
+<!-- MathJax -->
+
+<script type="text/javascript"
+
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+</script>
 
 <h1> </h1>
 <h1 style="text-align: center;"> Abstract </h1>
