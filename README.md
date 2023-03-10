@@ -17,13 +17,13 @@ As discussed in the poster, our wall consists of an elastic plate which is in tu
 
 <p>Now looking at Fig. 1, one may argue that this flow setup is not realistic either, since when in reality do we see these discontinuities of our base flow \(U(z)\) at \(z = \pm 1\)? Well, as it turns out, the shape of the base flow does not have a significant influence on the stability of the flow, meaning we can use this rather simple approach, and still get reasonable predictions for the flows instability. Another advantage of using this 'plug flow' profile, is that we can actually write out an explicit dispersion relation for our flow, as is written out in Eqn 1.</p> 
 
-Since our flow is symmetric down the flow centre-line $z = 0$, we can consider symmetric and anti-symmetric modes. In the poster we only disuss symmetric, or varicose modes. Anti-symmetric, or sinuous modes only differ by replacing the $\coth(\alpha)$ terms in $X^{v}$ and $Y^{v}$ with $\tanh(\alpha)$. 
+<p>Since our flow is symmetric down the flow centre-line \(z = 0\), we can consider symmetric and anti-symmetric modes. In the poster we only disuss symmetric, or varicose modes. Anti-symmetric, or sinuous modes only differ by replacing the \(\coth(\alpha)\) terms in \(X^{v}\) and \(Y^{v}\) with \(\tanh(\alpha)\).</p>
 
 (Discuss the dimensionless parameters a bit more?)
 <h1> </h1>
 <h1 style="text-align: center;"> AI Analysis </h1>
 
-The study of Absolute instability revolves around looking for specific saddle points in the complex $\alpha$-plane, whose corresponding growth rate, $\omega_{i}$ is greater than zero. An example of such saddles can be seen below, where we take our walls to be rigid, with $\Lambda=h=1$. 
+The study of Absolute instability revolves around looking for specific saddle points in the complex $\alpha$-plane, whose corresponding growth rate, \(\omega_{i}\) is greater than zero. An example of such saddles can be seen below, where we take our walls to be rigid, with \(\Lambda=h=1\). 
 
 <!-- [alt text](Merge_saddles.jpg) -->
 <img class="center" src="Merge_saddles.jpg" alt="Pinch points in the complex wavenumber plane." width="textwidth" height="333">
