@@ -13,3 +13,5 @@ title: The Effects of Compliance on the Stability of Jets and Wakes
 # description: This page acts as a supplement to the main poster, giving additional information about each section. #here I am writing a comment 
 
 math: true 
+kramdown:
+  math_engine: mathjax

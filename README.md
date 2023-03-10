@@ -27,6 +27,8 @@ The study of Absolute instability revolves around looking for specific saddle po
 
 <!-- [alt text](Merge_saddles.jpg) -->
 <img class="center" src="Merge_saddles.jpg" alt="Pinch points in the complex wavenumber plane." width="500" height="333">
+<br> 
+<!-- br is a line break  -->
 
 As stated on the poster, not every saddle represents an AI. Those that do are referred to as pinch points.We use Briggs' criterion to pick out these points, and we ignore the remaining saddles, unless these too become pinch points later down the line. 
 
