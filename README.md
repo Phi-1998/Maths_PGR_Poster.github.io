@@ -12,9 +12,18 @@ As discussed in the poster, our wall consists of an elastic plate which is in tu
 Now looking at Fig. 1, one may argue that this flow setup is not realistic either, since when in reality do we see these discontinuities of our base flow $U(z)$ at $z = \pm 1$? Well, as it turns out, the shape of the base flow does not have a significant influence on the stability of the flow, meaning we can use this rather simple approach, and still get reasonable predictions for the flows instability. Another advantage of using this 'plug flow' profile, is that we can actually write out an explicit dispersion relation for our flow, as is written out in Eqn 1. 
 
 Since our flow is symmetric down the flow centre-line $z = 0$, we can consider symmetric and anti-symmetric modes. In the poster we only disuss anti-symmetric, or varicose modes. Symmetric, or sinuous modes only differ by replacing the $\coth(\alpha)$ terms in $X^{v}$ and $Y^{v}$ with $\tanh(\alpha)$. 
+
+(Discuss the dimensionless parameters a bit more?)
 <h1> </h1>
 <h1 style="text-align: center;"> AI Analysis </h1>
 
+The study of Absolute instability revolves around looking for specific saddle points in the complex $\alpha$-plane, whose corresponding growth rate, $\omega_{i}$ is greater than zero. An example of such saddles can be seen below, where we take our walls to be rigid, with $\Lambda=h=1$. 
+
+[alt text](Merge_saddles.jpg)
+
+As stated on the poster, not every saddle represents an AI. Those that do are referred to as pinch points.We use Briggs' criterion to pick out these points, and we ignore the remaining saddles, unless these too become pinch points later down the line. 
+
+We stated that the addition of compliant walls leads to both the stabilization and destabilization of the flow, based on the growth rates of these pinch points. 
 <h1> </h1>
 <h1 style="text-align: center;"> References </h1>
 <!-- a note on the nondimensionalisation  -->
