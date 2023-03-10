@@ -1,7 +1,4 @@
-<!-- # Maths_PGR_Poster.github.io  -->
-<!-- &nbsp;  -->
-<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 <h1> </h1>
 <h1 style="text-align: center;"> Abstract </h1>
@@ -14,7 +11,7 @@ As discussed in the poster, our wall consists of an elastic plate which is in tu
 
 Now looking at Fig. 1, one may argue that this flow setup is not realistic either, since when in reality do we see these discontinuities of our base flow $U(z)$ at $z = \pm 1$? Well, as it turns out, the shape of the base flow does not have a significant influence on the stability of the flow, meaning we can use this rather simple approach, and still get reasonable predictions for the flows instability. Another advantage of using this 'plug flow' profile, is that we can actually write out an explicit dispersion relation for our flow, as is written out in Eqn 1. 
 
-Since our flow is symmetric down the flow centre-line $z = 0$, we can consider symmetric and anti-symmetric modes. In the poster we only disuss anti-symmetric, or varicose modes. Symmetric, or sinuous modes only differ by replacing the $\coth(\alpha)$ terms in $`X^{v}`$ and $Y^{v}$ with $\tanh(\alpha)$. 
+Since our flow is symmetric down the flow centre-line $z = 0$, we can consider symmetric and anti-symmetric modes. In the poster we only disuss anti-symmetric, or varicose modes. Symmetric, or sinuous modes only differ by replacing the $\coth(\alpha)$ terms in $X^{v}$ and $Y^{v}$ with $\tanh(\alpha)$. 
 <h1> </h1>
 <h1 style="text-align: center;"> AI Analysis </h1>
 
@@ -22,9 +19,3 @@ Since our flow is symmetric down the flow centre-line $z = 0$, we can consider s
 <h1 style="text-align: center;"> References </h1>
 <!-- a note on the nondimensionalisation  -->
 
-
-
-
-<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"><script> -->
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
