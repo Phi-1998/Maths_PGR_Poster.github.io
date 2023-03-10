@@ -19,11 +19,13 @@ Since our flow is symmetric down the flow centre-line $z = 0$, we can consider s
 
 The study of Absolute instability revolves around looking for specific saddle points in the complex $\alpha$-plane, whose corresponding growth rate, $\omega_{i}$ is greater than zero. An example of such saddles can be seen below, where we take our walls to be rigid, with $\Lambda=h=1$. 
 
-[alt text](Merge_saddles.jpg)
+<!-- [alt text](Merge_saddles.jpg) -->
+<img style="text-align:center;" src="Merge_saddles.jpg" alt="Pinch points in the complex wavenumber plane." width="500" height="333">
 
 As stated on the poster, not every saddle represents an AI. Those that do are referred to as pinch points.We use Briggs' criterion to pick out these points, and we ignore the remaining saddles, unless these too become pinch points later down the line. 
 
-We stated that the addition of compliant walls leads to both the stabilization and destabilization of the flow, based on the growth rates of these pinch points. 
+We stated that the addition of compliant walls leads to both the stabilization and destabilization of the flow, based on the growth rates of these pinch points. Below is an example of how compliant walls at various confinement values actually influence the instability of the flow.   
+
 <h1> </h1>
 <h1 style="text-align: center;"> References </h1>
 <!-- a note on the nondimensionalisation  -->
