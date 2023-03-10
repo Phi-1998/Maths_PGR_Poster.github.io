@@ -25,11 +25,6 @@ Since our flow is symmetric down the flow centre-line $z = 0$, we can consider s
 
 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"><script>
-<!-- MathJax -->
+<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"><script> -->
 
-<script type="text/javascript"
-
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-
-</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
