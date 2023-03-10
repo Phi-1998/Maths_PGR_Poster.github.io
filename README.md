@@ -20,7 +20,7 @@ Since our flow is symmetric down the flow centre-line $z = 0$, we can consider s
 The study of Absolute instability revolves around looking for specific saddle points in the complex $\alpha$-plane, whose corresponding growth rate, $\omega_{i}$ is greater than zero. An example of such saddles can be seen below, where we take our walls to be rigid, with $\Lambda=h=1$. 
 
 <!-- [alt text](Merge_saddles.jpg) -->
-<img style="text-align:center;" src="Merge_saddles.jpg" alt="Pinch points in the complex wavenumber plane." width="500" height="333">
+<img class="center" src="Merge_saddles.jpg" alt="Pinch points in the complex wavenumber plane." width="500" height="333">
 
 As stated on the poster, not every saddle represents an AI. Those that do are referred to as pinch points.We use Briggs' criterion to pick out these points, and we ignore the remaining saddles, unless these too become pinch points later down the line. 
 
