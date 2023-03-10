@@ -12,4 +12,6 @@ Now looking at Fig. 1, one may argue that this flow setup is not realistic eithe
 
 Since our flow is symmetric down the flow centre-line $ z = 0 $, we can consider symmetric and anti-symmetric modes. In the poster we only disuss anti-symmetric, or varicose modes. Symmetric, or sinuous modes only differ by replacing the $ \coth(\alpha)$ terms in $X^{v}$ and $Y^{v}$ with $\tanh(\alpha)$. 
 
+This is a maths test \\(E = mc^{2}\\). Does this work?
+
 <!-- a note on the nondimensionalisation  -->
