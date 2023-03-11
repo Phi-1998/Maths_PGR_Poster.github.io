@@ -24,6 +24,8 @@ Does the below work?
 <p> \[ \int^{1}_{0} \exp(x) dx \] </p>
 
 (Discuss the dimensionless parameters a bit more?)
+  
+ ### USE SUPSCRIPTS ON POSTER TO POINT TO AREAS OF DISCUSSION ON THE SITE...  
 <h1> </h1>
 <h1 style="text-align: center;"> AI Analysis </h1>
 
