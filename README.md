@@ -29,9 +29,9 @@ With this dispersion relation, one can carry out a number of instability analyse
 
 From a spatial-temporal analysis, we could have one of three outcomes:  
 
-1. Stability,
-2. Convective Instability (CI),
-3. Absolute Instability (AI). 
+- Stability
+- Convective Instability (CI)
+- Absolute Instability (AI)
 
 <p> If we have a CI, then we have decay in time and growth in space. This is effectively a spatial instability. We have an AI if we see growth in time at a given pinch point, i.e. when \(\omega_{i} >0\). It is these modes that we are most interested in. 
 </p> 
