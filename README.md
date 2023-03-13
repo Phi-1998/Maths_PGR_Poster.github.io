@@ -17,9 +17,9 @@ The purpose of this page is to expand on a few areas of the poster which, due to
 
 <h1> </h1>
 
-<h3 style="text-align: center;"> (1,2) A Spatio-temporal Analysis and The Dispersion Relation </h3>
+<h3 style="text-align: center;"> (1,2,3) The Dispersion Relation, Spatio-temporal Analysis, & Absolute Instability </h3>
 
-<p> A dispersion relation is an expression which relates a waves wavenumber, usually denoted as \(\alpha\) which represents the number of wavelengths per unit of distance and the frequency \(\omega\), which represents the number of oscillations per unit time. There are a number of ways in which one can derive a dispersion relation, though this is not something we will derive here. However, there are a number of texts we can recommend (cite). A dispersion relation is often written in the form 
+<p> A dispersion relation is an expression which relates a waves wavenumber, usually denoted as \(\alpha\), which represents the number of wavelengths per unit of distance and the frequency \(\omega\), which represents the number of oscillations per unit time. There are a number of ways in which one can derive a dispersion relation, though this is not something we will derive here. However, there are a number of texts we can recommend (cite). A dispersion relation is often written in the form 
 \[\mathbb{D}(\alpha,\omega) \equiv 0 \] 
 With this dispersion relation, one can carry out a number of instability analyses, including a temporal instability, i.e. where \(\omega \in \mathbb{C},\alpha \in \mathbb{R}\), allowing us to see how a wave can grow in time, or a spatial instability, where \(\omega \in \mathbb{R},\alpha \in \mathbb{C}\), which allows us to consider the growth of a wave in space. </p> 
 
