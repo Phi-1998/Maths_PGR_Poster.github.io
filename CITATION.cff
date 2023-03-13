@@ -1,0 +1,523 @@
+@article{juniper2006effect,
+  title={The effect of confinement on the stability of two-dimensional shear flows},
+  author={Juniper, Matthew P},
+  journal={J. Fluid Mech.},
+  volume={565},
+  pages={171},
+  year={2006},
+  publisher={Cambridge University Press}
+}
+
+@article{nagata1999stability,
+  title={On the stability of plane Poiseuille flow between compliant boundaries},
+  author={Nagata, M and Cole, TR},
+  journal={WIT Transactions on Modelling and Simulation},
+  volume={22},
+  year={1999},
+  publisher={WIT Press}
+}
+
+@article{juniper2008effect,
+  title={The effect of confinement on the stability of non-swirling round jet/wake flows},
+  author={Juniper, Matthew P},
+  journal={J. Fluid Mech.},
+  volume={605},
+  pages={227},
+  year={2008},
+  publisher={Cambridge University Press}
+}
+
+
+@phdthesis{ali2016onset,
+  title={Onset of global instabilities in the plane channel flow between compliant walls},
+  author={Ali, Waleed},
+  year={2016},
+  school={Cardiff University, School of Mathematics}
+}
+
+@article{juniper2007full,
+  title={The full impulse response of two-dimensional jet/wake flows and implications for confinement},
+  author={Juniper, Matthew P},
+  journal={J. Fluid Mech.},
+  volume={590},
+  pages={163},
+  year={2007},
+  publisher={Cambridge University Press}
+}
+
+@article{rees2009effect,
+  title={The effect of surface tension on the stability of unconfined and confined planar jets and wakes},
+  author={Rees, SJ and Juniper, MP},
+  journal={J. Fluid Mech.},
+  volume={633},
+  pages={71},
+  year={2009},
+  publisher={Cambridge University Press}
+}
+
+@book{drazin2002introduction,
+  title={Introduction to hydrodynamic stability},
+  author={Drazin, Philip G},
+  volume={32},
+  year={2002},
+  publisher={Cambridge University Press}
+}
+
+@article{healey2007enhancing,
+  title={Enhancing the absolute instability of a boundary layer by adding a far-away plate},
+  author={Healey, JJ},
+  journal={J. Fluid Mech.},
+  volume={579},
+  pages={29},
+  year={2007},
+  publisher={Cambridge University Press}
+}
+
+@article{healey2004relation,
+  title={On the relation between the viscous and inviscid absolute instabilities of the rotating-disk boundary layer},
+  author={Healey, JJ},
+  journal={J. Fluid Mech.},
+  volume={511},
+  pages={179},
+  year={2004},
+  publisher={Cambridge University Press}
+}
+
+@article{schmid2002stability,
+  title={Stability and transition in shear flows. Applied mathematical sciences, Vol. 142},
+  author={Schmid, Peter J and Henningson, Dan S and Jankowski, DF},
+  journal={Appl. Mech. Rev.},
+  volume={55},
+  number={3},
+  pages={B57--B59},
+  year={2002}
+}
+
+@article{healey2006new,
+  title={A new type of convective instability with exponential growth perpendicular to the basic flow},
+  author={Healey, JJ},
+  journal={J. Fluid Mech.},
+  volume={560},
+  pages={279--310},
+  year={2006}
+} 
+
+@article{healey2006inviscid,
+  title={Inviscid long-wave theory for the absolute instability of the rotating-disc boundary layer},
+  author={Healey, JJ},
+  journal={Proc. Math},
+  volume={462},
+  number={2069},
+  pages={1467--1492},
+  year={2006},
+  publisher={The Royal Society London}
+}
+
+
+@article{lingwood_1995, 
+  title={Absolute instability of the boundary layer on a rotating disk}, 
+  volume={299}, DOI={10.1017/S0022112095003405}, 
+  journal={J. Fluid Mech.}, 
+  publisher={Cambridge University Press}, 
+  author={Lingwood, R. J.}, 
+  year={1995}, 
+  pages={17–33}}
+
+@article{davies_carpenter_1997,
+ title={Instabilities in a plane channel flow between compliant walls}, 
+ volume={352},
+ DOI={10.1017/S0022112097007313},
+ journal={J. Fluid Mech.},
+ publisher={Cambridge University Press},
+ author={Davies, Christopher and Carpenter, Peter W.},
+ year={1997},
+ pages={205–243}
+}
+
+@book{boyd2001chebyshev,
+  title={Chebyshev and Fourier spectral methods},
+  author={Boyd, John P},
+  year={2001},
+  publisher={Courier Corporation}
+}
+
+@book{briggs1964electron,
+  title={Electron-stream interaction with plasmas},
+  author={Briggs, Richard J},
+  year={1964},
+  publisher={MIT}
+}
+
+@article{reynolds1883iii,
+  title={III. An experimental investigation of the circumstances which determine whether the motion of water shall be direct or sinuous, and of the law of resistance in parallel channels},
+  author={Reynolds, Osborne},
+  journal={Proceedings of the royal society of London},
+  volume={35},
+  number={224-226},
+  pages={84--99},
+  year={1883},
+  publisher={The Royal Society London}
+}
+
+@article{kramer1960boundary,
+  title={Boundary-layer stabilization by distributed damping},
+  author={Kramer, Max O},
+  journal={Journal of the Aerospace Sciences},
+  volume={27},
+  number={1},
+  pages={69--69},
+  year={1960}
+}
+
+
+@article{benjamin1960effects,
+  title={Effects of a flexible boundary on hydrodynamic stability},
+  author={Benjamin, T Brooke},
+  journal={J. Fluid Mech.},
+  volume={9},
+  number={4},
+  pages={513--532},
+  year={1960},
+  publisher={Cambridge University Press}
+}
+
+@article{landahl1962stability,
+  title={On the stability of a laminar incompressible boundary layer over a flexible surface},
+  author={Landahl, Marten T},
+  journal={J. Fluid Mech.},
+  volume={13},
+  number={4},
+  pages={609--632},
+  year={1962},
+  publisher={Cambridge University Press}
+}
+
+@article{carpenter1986hydrodynamic,
+  title={The hydrodynamic stability of flow over Kramer-type compliant surfaces. Part 2. Flow-induced surface instabilities},
+  author={Carpenter,PW and Garrad, AD},
+  journal={J. Fluid Mech.},
+  volume={170},
+  pages={199--232},
+  year={1986},
+  publisher={Cambridge University Press}
+}
+
+@article{carpenter1985hydrodynamic,
+  title={The hydrodynamic stability of flow over Kramer-type compliant surfaces. Part 1. Tollmien-Schlichting instabilities},
+  author={Carpenter,PW and Garrad, AD},
+  journal={J. Fluid Mech.},
+  volume={155},
+  pages={465--510},
+  year={1985},
+  publisher={Cambridge University Press}
+}
+
+
+@article{benjamin1963threefold,
+  title={The threefold classification of unstable disturbances in flexible surfaces bounding inviscid flows},
+  author={Benjamin, T Brooke},
+  journal={J. Fluid Mech.},
+  volume={16},
+  number={3},
+  pages={436--450},
+  year={1963},
+  publisher={Cambridge University Press}
+}
+
+@phdthesis{ali2016onset,
+  title={Onset of global instabilities in the plane channel flow between compliant walls},
+  author={Ali, Waleed},
+  year={2016},
+  school={Cardiff University, School of Mathematics}
+}
+
+@article{huerre1990local,
+  title={Local and global instabilities in spatially developing flows},
+  author={Huerre, Patrick and Monkewitz, Peter A},
+  journal={Annual review of fluid mechanics},
+  volume={22},
+  number={1},
+  pages={473--537},
+  year={1990},
+  publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}
+}
+
+@article{lasheras2000liquid,
+  title={Liquid jet instability and atomization in a coaxial gas stream},
+  author={Lasheras, Juan C and Hopfinger, EJ},
+  journal={Annu. Rev. Fluid Mech.},
+  volume={32},
+  number={1},
+  pages={275--308},
+  year={2000},
+  publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}
+}
+
+@article{yu1990effect,
+  title={The effect of nonuniform density on the absolute instability of two-dimensional inertial jets and wakes},
+  author={Yu, Ming-Huei and Monkewitz, Peter A},
+  journal={Phys. Fluids A: Fluid Dynamics},
+  volume={2},
+  number={7},
+  pages={1175--1181},
+  year={1990},
+  publisher={American Institute of Physics}
+}
+
+
+@article{carpenter2000hydrodynamics,
+  title={Hydrodynamics and compliant walls: Does the dolphin have a secret?},
+  author={Carpenter, Peter W and Davies, Christopher and Lucey, Anthony D},
+  journal={Curr. Sci},
+  pages={758--765},
+  year={2000},
+  publisher={JSTOR}
+}
+
+@article{nagata1999stability,
+  title={On the stability of plane Poiseuille flow between compliant boundaries},
+  author={Nagata, M and Cole, TR},
+  journal={WIT Transactions on Modelling and Simulation},
+  volume={22},
+  year={1999},
+  publisher={WIT Press}
+}
+
+@article{rees2010effect,
+  title={The effect of confinement on the stability of viscous planar jets and wakes},
+  author={Rees, SJ and Juniper, MP},
+  journal={J. Fluid Mech.},
+  volume={656},
+  pages={309},
+  year={2010},
+  publisher={Cambridge University Press}
+}
+
+@article{huerre1985absolute,
+  title={Absolute and convective instabilities in free shear layers},
+  author={Huerre, Patrick and Monkewitz, Peter A},
+  journal={J. Fluid Mech.},
+  volume={159},
+  pages={151--168},
+  year={1985},
+  publisher={Cambridge University Press}
+}
+
+@article{biancofiore2010influence,
+  title={Influence of confinement on temporal stability of plane jets and wakes},
+  author={Biancofiore, L and Gallaire, F},
+  journal={Phys. Fluids},
+  volume={22},
+  number={1},
+  pages={014106},
+  year={2010},
+  publisher={American Institute of Physics}
+}
+
+@article{gad2002compliant,
+  title={Compliant coatings for drag reduction},
+  author={Gad-el-Hak, Mohamed},
+  journal={Progress in Aerospace Sciences},
+  volume={38},
+  number={1},
+  pages={77--99},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@article{Juniper2003d,
+title = {The Stability of Ducted Compound Flows and Consequences for the Geometry of Coaxial Injectors},
+author = {Juniper, M. P. and Candel, S. M.},
+year= {2003},
+journal = {J. Fluid Mech.},
+volume = {482},
+pages = {257--269},
+doi = {10.1017/S0022112003004075},
+}
+
+@article{10.1145/108556.108585,
+author = {Smith, David M.},
+title = {Algorithm 693: A FORTRAN Package for Floating-Point Multiple-Precision Arithmetic},
+year = {1991},
+issue_date = {June 1991},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {17},
+number = {2},
+issn = {0098-3500},
+url = {https://doi.org/10.1145/108556.108585},
+doi = {10.1145/108556.108585},
+abstract = {FM is a collection of FORTRAN-77 routines which performs floating-point multiple-precision arithmetic and elementary functions. Results are almost always correctly rounded, and due to improved algorithms used for elementary functions, reasonable efficiency is obtained.},
+journal = {ACM Trans. Math. Softw.},
+month = {jun},
+pages = {273–283},
+numpages = {11},
+keywords = {multiple precision portable software, floating point, accuracy, mathematical library, FORTRAN, arithmetic elementary function evaluation}
+}
+
+
+@phdthesis{davies1995evolution,
+  title={Evolution of Tollmien-Schlichting waves over a compliant panel},
+  author={Davies, Christopher},
+  year={1995},
+  school={University of Warwick}
+}
+
+@article{gaster1968growth,
+  title={Growth of disturbances in both space and time},
+  author={Gaster, M},
+  journal={Phys. Fluids},
+  volume={11},
+  number={4},
+  pages={723--727},
+  year={1968},
+  publisher={American Institute of Physics}
+}
+
+@article{kupfer1987cusp,
+  title={The cusp map in the complex-frequency plane for absolute instabilities},
+  author={Kupfer, Kenneth and Bers, Abraham and Ram, AK},
+  journal={The Physics of fluids},
+  volume={30},
+  number={10},
+  pages={3075--3082},
+  year={1987},
+  publisher={American Institute of Physics}
+}
+
+@article{alhushaybari2019convective,
+  title={Convective and absolute instability of viscoelastic liquid jets in the presence of gravity},
+  author={Alhushaybari, Abdullah and Uddin, Jamal},
+  journal={Physics of Fluids},
+  volume={31},
+  number={4},
+  pages={044106},
+  year={2019},
+  publisher={AIP Publishing LLC}
+}
+
+@article{brambley2009fundamental,
+  title={Fundamental problems with the model of uniform flow over acoustic linings},
+  author={Brambley, Edward James},
+  journal={Journal of Sound and Vibration},
+  volume={322},
+  number={4-5},
+  pages={1026--1037},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{turner2012wave,
+  title={Wave packet analysis and break-up length calculations for an accelerating planar liquid jet},
+  author={Turner, MR and Healey, JJ and Sazhin, SS and Piazzesi, Renzo},
+  journal={Fluid Dynamics Research},
+  volume={44},
+  number={1},
+  pages={015503},
+  year={2012},
+  publisher={IOP Publishing}
+}
+
+@article{triantafyllou1994note,
+  title={Note on the Kelvin--Helmholtz instability of stratified fluids},
+  author={Triantafyllou, George S},
+  journal={Physics of Fluids},
+  volume={6},
+  number={1},
+  pages={164--171},
+  year={1994},
+  publisher={American Institute of Physics}
+}
+
+@article{healey2009destabilizing,
+  title={Destabilizing effects of confinement on homogeneous mixing layers},
+  author={Healey, JJ},
+  journal={Journal of fluid mechanics},
+  volume={623},
+  pages={241--271},
+  year={2009},
+  publisher={Cambridge University Press}
+}
+
+@article{shair1963effect,
+  title={The effect of confining walls on the stability of the steady wake behind a circular cylinder},
+  author={Shair, FH and Grove, AS and Petersen, EE and Acrivos, A},
+  journal={Journal of Fluid mechanics},
+  volume={17},
+  number={4},
+  pages={546--550},
+  year={1963},
+  publisher={Cambridge University Press}
+}
+
+@article{wang2019stability,
+  title={Stability analysis of asymmetric wakes},
+  author={Wang, Shuai and Wen, Fengbo and Shi, Xiao and Zhou, Xun},
+  journal={Physics of Fluids},
+  volume={31},
+  number={6},
+  pages={064108},
+  year={2019},
+  publisher={AIP Publishing LLC}
+}
+
+@article{emerson2016spatio,
+  title={Spatio-temporal linear stability analysis of stratified planar wakes: Velocity and density asymmetry effects},
+  author={Emerson, Benjamin and Jagtap, Swapnil and Quinlan, J Mathew and Renfro, Michael W and Cetegen, Baki M and Lieuwen, Tim},
+  journal={Physics of Fluids},
+  volume={28},
+  number={4},
+  pages={045101},
+  year={2016},
+  publisher={AIP Publishing LLC}
+}
+
+@article{bearman1978flow,
+  title={Flow around a circular cylinder near a plane boundary},
+  author={Bearman, PW and Zdravkovich, MM},
+  journal={Journal of Fluid Mechanics},
+  volume={89},
+  number={1},
+  pages={33--47},
+  year={1978},
+  publisher={Cambridge University Press}
+}
+
+@article{koch1985local,
+  title={Local instability characteristics and frequency determination of self-excited wake flows},
+  author={Koch, W},
+  journal={Journal of Sound and vibration},
+  volume={99},
+  number={1},
+  pages={53--83},
+  year={1985},
+  publisher={Elsevier}
+}
+@article{juniper2011local,
+  title={The local and global stability of confined planar wakes at intermediate Reynolds number},
+  author={Juniper, MP and Tammisola, Outi and Lundell, Fredrik},
+  journal={Journal of Fluid Mechanics},
+  volume={686},
+  pages={218--238},
+  year={2011},
+  publisher={Cambridge University Press}
+}
+@article{tammisola2011global,
+  title={Global linear and nonlinear stability of viscous confined plane wakes with co-flow},
+  author={Tammisola, Outi and Lundell, Fredrik and Schlatter, Philipp and Wehrfritz, Armin and S{\"o}derberg, L Daniel},
+  journal={Journal of fluid mechanics},
+  volume={675},
+  pages={397--434},
+  year={2011},
+  publisher={Cambridge University Press}
+}
+@article{richter1976fluctuating,
+  title={Fluctuating forces on a rigid circular cylinder in confined flow},
+  author={Richter, A and Naudascher, E},
+  journal={Journal of Fluid Mechanics},
+  volume={78},
+  number={3},
+  pages={561--576},
+  year={1976},
+  publisher={Cambridge University Press}
+}
