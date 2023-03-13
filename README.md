@@ -27,12 +27,13 @@ Now what would we find out if we were to let both \(\alpha,\omega \in \mathbb{C}
 
 Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, in the long time limit. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial perturbation, and growth in time. These modes, \((\alpha,\omega)\) pairs, take the form of saddle points in complex \(\alpha\)-plane, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points. (For details on carrying out such an analysis, see references)
 
-From a spatial-temporal analysis, we could have one of three outcomes: </p> 
+From a spatial-temporal analysis, we could have one of three outcomes:  
 
-<p>
-1. Stability, 
-2. Convective Instability (CI),
-3. Absolute Instability (AI). 
+<ol>
+<li> Stability,</li>
+<li> Convective Instability (CI),</li>
+<li> Absolute Instability (AI). </li>
+</ol>
 
 If we have a CI, then we have decay in time and growth in space. This is effectively a spatial instability. We have an AI if we see growth in time at a given pinch point, i.e. when \(\omega_{i} >0\). It is these modes that we are most interested in. 
 
