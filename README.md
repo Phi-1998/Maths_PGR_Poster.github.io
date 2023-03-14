@@ -3,6 +3,13 @@
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+   "HTML-CSS": { linebreaks: { automatic: true } },
+           SVG: { linebreaks: { automatic: true } }
+  });
+</script>
   <!-- body{overflow-x: hidden}  -->
 </head>
 
