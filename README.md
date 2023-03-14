@@ -38,7 +38,7 @@ From a spatial-temporal analysis, we could have one of three outcomes: Stability
 <p>
 Nondimensionalising a system has many advantages over using dimensional values. Firstly, we do not need to worry about units, like metres per second, or centimetres and such, as these are removed from the discussion. Furthermore, this method allows us to compare to the results of others, as long as we keep the dimenionless scheme consistent. 
 
-At the end of the day, for the sake of this poster, all you need understand is that \(m,d,B,T,K\) represent various characteristics of the wall, while \(\Lambda\) represents the difference between the inner and outer flows, i.e. the shear, with \(\Lambda \> 0\) representing a jet, while \(\Lambda \< 0\) represents a wake. Finally, \(h\) represents how far away the outer walls are from the fluid interfaces. 
+At the end of the day, for the sake of this poster, all you need understand is that \(m,d,B,T,K\) represent various characteristics of the wall, while \(\Lambda\) represents the difference between the inner and outer flows, i.e. the shear, with \(\Lambda &gt; 0\) representing a jet, while \(\Lambda &lt; 0\) represents a wake. Finally, \(h\) represents how far away the outer walls are from the fluid interfaces. 
 </p>
 
 <p> Becuase of the symmetry of the flow down the fluid center, \(z = 0\), we can consider both symmetric and anti-symmetric flows independently of each other, though in reality we would see some combination of both these modes in the flow. Below we have the \(X^{(v,s)}\) and \(Y^{(v,s)}\) terms that make up the full dispersion relations, for varicose modes we have: 
