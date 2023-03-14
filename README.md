@@ -25,8 +25,7 @@ With this dispersion relation, one can carry out a number of instability analyse
 
 <p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial perturbation, and growth in time. These modes, \((\alpha,\omega)\) pairs, take the form of saddle points in complex \(\alpha\)-plane, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points and can be differenciated from regular saddle points using Briggs' Criterion. (Should I add more about this?) (For details on carrying out such an analysis, see references)</p> 
 
-<p> 
-From a spatial-temporal analysis, we could have one of three outcomes: Stability, Convective Instability (CI) or Absolute Instability (AI). If we have a CI, then we have decay in time and growth in space. This is effectively a spatial instability. We have an AI if we see growth in time at a given pinch point, i.e. when \(\omega_{i} >0\). It is these modes that we are most interested in. 
+<p> From a spatial-temporal analysis, we could have one of three outcomes: Stability, Convective Instability (CI) or Absolute Instability (AI). If we have a CI, then we have decay in time and growth in space. This is effectively a spatial instability. We have an AI if we see growth in time at a given pinch point, i.e. when \(\omega_{i} >0\). It is these modes that we are most interested in. 
 </p> 
 
 <h2 style="text-align: center;"> (4,5,6,7) Flow Setup </h2>
@@ -35,11 +34,11 @@ From a spatial-temporal analysis, we could have one of three outcomes: Stability
 </p>
 
 <p> Before we continue with our discussion of the base flow and definind our dispersion relation, we should first discuss what we mean by dimensionless variables, such as the wall parameters \(m,d,B,T,K\), and the flow parameters \(\Lambda,h\). Therse variables have no dimensions associated them, they are just numbers. This is a branch of mathematics called Dimensional Analysis, and can be found in a number of text books and online.</p>
-<p>
-Nondimensionalising a system has many advantages over using dimensional values. Firstly, we do not need to worry about units, like metres per second, or centimetres and such, as these are removed from the discussion. Furthermore, this method allows us to compare to the results of others, as long as we keep the dimenionless scheme consistent. 
+
+<p>Nondimensionalising a system has many advantages over using dimensional values. Firstly, we do not need to worry about units, like metres per second, or centimetres and such, as these are removed from the discussion. Furthermore, this method allows us to compare to the results of others, as long as we keep the dimenionless scheme consistent. 
 </p>
-<p>
-At the end of the day, for the sake of this poster, all you need understand is that \(m,d,B,T,K\) represent various characteristics of the wall, while \(\Lambda\) represents the difference between the inner and outer flows, i.e. the shear, with \(\Lambda &gt; 0\) representing a jet, while \(\Lambda &lt; 0\) represents a wake. Finally, \(h\) represents how far away the outer walls are from the fluid interfaces. 
+
+<p>At the end of the day, for the sake of this poster, all you need understand is that \(m,d,B,T,K\) represent various characteristics of the wall, while \(\Lambda\) represents the difference between the inner and outer flows, i.e. the shear, with \(\Lambda &gt; 0\) representing a jet, while \(\Lambda &lt; 0\) represents a wake. Finally, \(h\) represents how far away the outer walls are from the fluid interfaces. 
 </p>
 
 <p> Becuase of the symmetry of the flow down the fluid center, \(z = 0\), we can consider both symmetric and anti-symmetric flows independently of each other, though in reality we would see some combination of both these modes in the flow. Below we have the \(X^{(v,s)}\) and \(Y^{(v,s)}\) terms that make up the full dispersion relations, for varicose modes we have: 
