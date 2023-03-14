@@ -37,7 +37,8 @@ From a spatial-temporal analysis, we could have one of three outcomes: Stability
 <p> Before we continue with our discussion of the base flow and definind our dispersion relation, we should first discuss what we mean by dimensionless variables, such as the wall parameters \(m,d,B,T,K\), and the flow parameters \(\Lambda,h\). Therse variables have no dimensions associated them, they are just numbers. This is a branch of mathematics called Dimensional Analysis, and can be found in a number of text books and online.</p>
 <p>
 Nondimensionalising a system has many advantages over using dimensional values. Firstly, we do not need to worry about units, like metres per second, or centimetres and such, as these are removed from the discussion. Furthermore, this method allows us to compare to the results of others, as long as we keep the dimenionless scheme consistent. 
-
+</p>
+<p>
 At the end of the day, for the sake of this poster, all you need understand is that \(m,d,B,T,K\) represent various characteristics of the wall, while \(\Lambda\) represents the difference between the inner and outer flows, i.e. the shear, with \(\Lambda &gt; 0\) representing a jet, while \(\Lambda &lt; 0\) represents a wake. Finally, \(h\) represents how far away the outer walls are from the fluid interfaces. 
 </p>
 
