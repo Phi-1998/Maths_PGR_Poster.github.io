@@ -3,10 +3,11 @@
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+  <!-- body{overflow-x: hidden}  -->
 </head>
 
 <body>
-overflow-x: hidden
+
 <h1> </h1>
 <h1 style="text-align: center;"> About This Page </h1>
 
