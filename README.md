@@ -6,6 +6,7 @@
 </head>
 
 <body>
+overflow-x: hidden
 <h1> </h1>
 <h1 style="text-align: center;"> About This Page </h1>
 
