@@ -60,13 +60,16 @@ And sinuous modes
 
 \[X^{s} = F\coth(\alpha h)+ G\tanh(\alpha),\]
 
-\[Y^{s} = F+G\tanh(\alpha)\coth(\alpha h).\] 
+\[Y^{s} = F+G\tanh(\alpha)\coth(\alpha h),\] 
 
-Where \(F = (\alpha (1-\Lambda)-\omega)^{2}\) and \(G = (\alpha (1+\Lambda)-\omega)^{2}\)
+where \(F = (\alpha (1-\Lambda)-\omega)^{2}\) and \(G = (\alpha (1+\Lambda)-\omega)^{2}\).
 </p>
 <p>
-Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes. 
+Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes. These are seen in the figure below. 
 </p> 
+
+<img src = "Sinuous_Varicse_interface.png" alt="Sinuous and Varicose modes">
+
 
 <h2 style="text-align: center;"> A Note on the Results </h2>
 
