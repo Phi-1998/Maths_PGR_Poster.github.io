@@ -75,5 +75,5 @@ Now what do we mean by symmetric and anti-symmetric modes? Well, note that the f
 
 <h2 style="text-align: center;"> A Note on the Results </h2>
 
-</body>
+<!-- </body> -->
 <!-- </html> -->
