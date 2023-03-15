@@ -52,18 +52,18 @@ With this dispersion relation, one can carry out a number of instability analyse
 
 <p> Becuase of the symmetry of the flow down the fluid center, \(z = 0\), we can consider both symmetric and anti-symmetric flows independently of each other, though in reality we would see some combination of both these modes in the flow. Below we have the \(X^{(v,s)}\) and \(Y^{(v,s)}\) terms that make up the full dispersion relations, for varicose modes we have: 
 
-\[X^{v} = (\alpha (1-\Lambda)-\omega)^{2}\coth(\alpha h)+ \\\\ 
+\[X^{v} = (\alpha (1-\Lambda)-\omega)^{2}\coth(\alpha h)+ <br>
   (\alpha (1+\Lambda) - \omega)^{2}\coth(\alpha),\]
 
-\[Y^{v} = (\alpha (1-\Lambda)-\omega)^{2}+\\\\
+\[Y^{v} = (\alpha (1-\Lambda)-\omega)^{2}+<br>
   (\alpha (1+\Lambda)-\omega)^{2}\coth(\alpha)\coth(\alpha h).\] 
 
 And sinuous modes
 
-\[X^{s} = (\alpha (1-\Lambda)-\omega)^{2}\coth(\alpha h)+\\\\
+\[X^{s} = (\alpha (1-\Lambda)-\omega)^{2}\coth(\alpha h)+<br>
   (\alpha (1+\Lambda) - \omega)^{2}\tanh(\alpha), \]
 
-\[Y^{s} = (\alpha (1-\Lambda)-\omega)^{2}+\\\\
+\[Y^{s} = (\alpha (1-\Lambda)-\omega)^{2}+<br>
   (\alpha (1+\Lambda)-\omega)^{2}\tanh(\alpha)\coth(\alpha h).\] 
 
 Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes. 
