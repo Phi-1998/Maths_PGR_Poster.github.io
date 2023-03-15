@@ -22,7 +22,7 @@ A spatio-temporal stability analysis is conducted on a flow representing both je
 
 <h2 style="text-align: center;"> (1,2,3) The Dispersion Relation, Spatio-temporal Analysis, & Absolute Instability </h2>
 
-<p> A dispersion relation is an expression which relates a waves wavenumber, usually denoted as \(\alpha\), which represents the number of wavelengths per unit of distance and the frequency \(\omega\), which represents the number of oscillations per unit time. There are a number of ways in which one can derive a dispersion relation, though this is not something we will derive here, though we recommend the book "Introduction to Hydrodynamic Stability" by P.G Drazin[^drazin2002introduction]. A dispersion relation is often written in the form 
+<p> A dispersion relation is an expression which relates a waves wavenumber, usually denoted as \(\alpha\), which represents the number of wavelengths per unit of distance and the frequency \(\omega\), which represents the number of oscillations per unit time. There are a number of ways in which one can derive a dispersion relation, though this is not something we will derive here, though we recommend the book (P.G Drazin)[^drazin2002]. A dispersion relation is often written in the form 
 \[\mathbb{D}(\alpha,\omega) \equiv 0 \] 
 With this dispersion relation, one can carry out a number of instability analyses, including a temporal instability, i.e. where \(\omega \in \mathbb{C},\alpha \in \mathbb{R}\), allowing us to see how a wave can grow in time, or a spatial instability, where \(\omega \in \mathbb{R},\alpha \in \mathbb{C}\), which allows us to consider the growth of a wave in space. </p> 
 
@@ -75,4 +75,4 @@ Now what do we mean by symmetric and anti-symmetric modes? Well, note that the f
 <!-- </html> -->
 <h2 style="text-align: center;"> References </h2> 
 
-[^drazin2002introduction]: P. G. Drazin. Introduction to hydrodynamic stability, volume 32. Cambridge University Press,2002. 
+[^drazin2002]: P. G. Drazin. Introduction to hydrodynamic stability, volume 32. Cambridge University Press, 2002. 
