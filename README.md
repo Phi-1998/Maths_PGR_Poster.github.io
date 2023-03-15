@@ -32,7 +32,7 @@ With this dispersion relation, one can carry out a number of instability analyse
 
 <p> Now what would we find out if we were to let both \(\alpha,\omega \in \mathbb{C}\)? By doing this, we are able to carry out a spatio-temporal analysis on the system. So what does this mean, and how does it differ from a spatial or temporal instability? </p> 
 
-<p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial perturbation, and growth in time. These modes, \((\alpha,\omega)\) pairs, take the form of saddle points in complex \(\alpha\)-plane, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points and can be differenciated from regular saddle points using Briggs' Criterion. (Should I add more about this?) (For details on carrying out such an analysis, see references)</p> 
+<p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial disturbance, and growth in time. These modes, \((\alpha,\omega)\) pairs, take the form of saddle points in complex \(\alpha\)-plane, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points and can be differenciated from regular saddle points using Briggs' Criterion. (Should I add more about this?) (For details on carrying out such an analysis, see references)</p> 
 
 <p> From a spatial-temporal analysis, we could have one of three outcomes: Stability, Convective Instability (CI) or Absolute Instability (AI). If we have a CI, then we have decay in time and growth in space. This is effectively a spatial instability. We have an AI if we see growth in time at a given pinch point, i.e. when \(\omega_{i} >0\). It is these modes that we are most interested in. 
 </p> 
@@ -69,7 +69,7 @@ Now what do we mean by symmetric and anti-symmetric modes? Well, note that the f
 </p> 
 <figure>
 <img src="Sinuous_Varicose_interface.png" alt="Sinuous and Varicose modes">
-<figcaption>Fig.1 - Difference between Sinuous and Varicose modes. 
+<figcaption>Fig.1 - Difference between Sinuous and Varicose modes.</figcaption>
 </figure>
 
 <h2 style="text-align: center;"> A Note on the Results </h2>
