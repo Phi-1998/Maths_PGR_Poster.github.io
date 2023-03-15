@@ -71,7 +71,7 @@ Now what do we mean by symmetric and anti-symmetric modes? Well, note that the f
   <figcaption>Fig.1: Difference between Sinuous and Varicose modes.</figcaption>
 </figure>
 
-<h2 style="text-align: center;"> A Note on the Results </h2>
+<!-- <h2 style="text-align: center;"> A Note on the Results </h2> -->
 
 <!-- </body> -->
 <!-- </html> -->
