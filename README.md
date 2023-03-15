@@ -65,7 +65,7 @@ And sinuous modes
 where \(F = (\alpha (1-\Lambda)-\omega)^{2}\) and \(G = (\alpha (1+\Lambda)-\omega)^{2}\).
 </p>
 <p>
-Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces, represented as dashed black lines in Fig.1, can carry their own waves, represented as red curves in Fig.1. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes. 
+Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves, represented by dashed black lines and red curves respectively in Fig.1. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes. 
 </p> 
 
 <figure>
