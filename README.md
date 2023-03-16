@@ -32,7 +32,7 @@ With this dispersion relation, one can carry out a number of instability analyse
 
 <p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial disturbance, and growth in time. These modes, \((\alpha,\omega)\) pairs, are solutions of: 
 
-\[\mathbb{D}(\alpha,\omega) = \frac{\partial\mathbb{D}(\alpha,\omega)}{\partial \alpha} = 0\],
+\[\mathbb{D}(\alpha,\omega) = \frac{\partial\mathbb{D}(\alpha,\omega)}{\partial \alpha} = 0,\]
 
 and take the form of saddle points in complex \(\alpha\)-plane, shown in Fig.1, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points and can be differenciated from regular saddle points using Briggs' Criterion [2]. Regular saddle points do not contribute to the instability, while pinch points do. For more details on distinguising these pinch points, consider the works of Juniper, cited on the poster.</p> 
 
