@@ -28,7 +28,7 @@ A link to the poster can be found here: <a href="Main_Poster (1).pdf">Poster.</a
 \[\mathbb{D}(\alpha,\omega) \equiv 0. \] 
 With this dispersion relation, one can carry out a number of instability analyses, including a temporal instability, i.e. where \(\omega \in \mathbb{C},\alpha \in \mathbb{R}\), allowing us to see how a wave can grow in time, or a spatial instability, where \(\omega \in \mathbb{R},\alpha \in \mathbb{C}\), which allows us to consider the growth of a wave in space. </p> 
 
-<p> Now what would we find out if we were to let both \(\alpha,\omega \in \mathbb{C}\)? By doing this, we are able to carry out a spatio-temporal analysis on the system. So what does this mean, and how does it differ from a spatial or temporal instability? </p> 
+<p> Now what would we find out if we were to let both \(\alpha,\omega \in \mathbb{C}\)? By doing this, we are able to carry out a spatio-temporal analysis on the system. But what does this mean, and how does it differ from a spatial or temporal instability? </p> 
 
 <p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial disturbance, and growth in time. These modes, \((\alpha,\omega)\) pairs, are solutions of: 
 
