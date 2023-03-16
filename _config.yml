@@ -5,7 +5,8 @@ plugins:
 - jekyll-github-metadata
 github:
   is_project_page: false
-  
+
+layout: page   
 domain: Maths_PGR_Poster.github.io
 url: https://Maths_PGR_Poster.github.io 
 
