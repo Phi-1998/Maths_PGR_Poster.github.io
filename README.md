@@ -32,6 +32,12 @@ With this dispersion relation, one can carry out a number of instability analyse
 
 <p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial disturbance, and growth in time. These modes, \((\alpha,\omega)\) pairs, take the form of saddle points in complex \(\alpha\)-plane, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points and can be differenciated from regular saddle points using Briggs' Criterion [2].</p> 
 
+<figure>
+  <img src="alpha_plane.png" alt="Pinch points in the complex wavenumber plane.">
+  <figcaption>Fig.1: Contours of constant \(\omega_{i}\) in the complex wavenumber plane. Red crosses indicate pinch points, while the white cross indicates a standard saddle point.</figcaption>
+</figure>
+
+
 <p> From a spatial-temporal analysis, we could have one of three outcomes: Stability, Convective Instability (CI) or Absolute Instability (AI). If we have a CI, then we have decay in time and growth in space. This is effectively a spatial instability. We have an AI if we see growth in time at a given pinch point, i.e. when \(\omega_{i} >0\). It is these modes that we are most interested in. 
 </p> 
 
@@ -63,12 +69,12 @@ And sinuous modes
 where \(F = (\alpha (1-\Lambda)-\omega)^{2}\) and \(G = (\alpha (1+\Lambda)-\omega)^{2}\).
 </p>
 <p>
-Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves, represented by dashed black lines and red curves respectively in Fig.1. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes For more on this, see references on the poster. 
+Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves, represented by dashed black lines and red curves respectively in Fig.2. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes For more on this, see references on the poster. 
 </p> 
 
 <figure>
   <img src="Sinuous_Varicose_interface.png" alt="Sinuous and Varicose modes.">
-  <figcaption>Fig.1: Difference between Sinuous and Varicose modes.</figcaption>
+  <figcaption>Fig.2: Difference between Sinuous and Varicose modes.</figcaption>
 </figure>
 
 <!-- <h2 style="text-align: center;"> A Note on the Results </h2> -->
