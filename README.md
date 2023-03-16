@@ -30,13 +30,16 @@ With this dispersion relation, one can carry out a number of instability analyse
 
 <p> Now what would we find out if we were to let both \(\alpha,\omega \in \mathbb{C}\)? By doing this, we are able to carry out a spatio-temporal analysis on the system. So what does this mean, and how does it differ from a spatial or temporal instability? </p> 
 
-<p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial disturbance, and growth in time. These modes, \((\alpha,\omega)\) pairs, take the form of saddle points in complex \(\alpha\)-plane, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points and can be differenciated from regular saddle points using Briggs' Criterion [2].</p> 
+<p> Unlike a spatial or temporal analysis, which consideres the growth of individual waves, a spatio-temporal analysis considers the growth of wave packets, groups of waves, after a suitably long time has passed. Furthermore, this analysis allows us to see whether a system experiances growth both up and downsteam of the initial disturbance, and growth in time. These modes, \((\alpha,\omega)\) pairs, are solutions of: 
+
+\[\mathbb{D}(\alpha,\omega) = \frac{\partial\mathbb{D}(\alpha,\omega)}{\partial \alpha} = 0\],
+
+and take the form of saddle points in complex \(\alpha\)-plane, shown in Fig.1, and branch points in the complex \(\omega\)-plane. These points are refered to as pinch points and can be differenciated from regular saddle points using Briggs' Criterion [2]. Regular saddle points do not contribute to the instability, while pinch points do. For more details on distinguising these pinch points, consider the works of Juniper, cited on the poster.</p> 
 
 <figure>
   <img src="alpha_plane.png" class="center" alt="Pinch points in the complex wavenumber plane." style="width:500px;height:400px;">
   <figcaption>Fig.1: Contours of constant \(\omega_{i}\) in the complex wavenumber plane. Red crosses indicate pinch points, while the white cross indicates a standard saddle point.</figcaption>
 </figure>
-
 
 <p> From a spatial-temporal analysis, we could have one of three outcomes: Stability, Convective Instability (CI) or Absolute Instability (AI). If we have a CI, then we have decay in time and growth in space. This is effectively a spatial instability. We have an AI if we see growth in time at a given pinch point, i.e. when \(\omega_{i} >0\). It is these modes that we are most interested in. 
 </p> 
@@ -46,7 +49,8 @@ With this dispersion relation, one can carry out a number of instability analyse
 <p> In our study, we used a piecewise linear base flow for our jet/wake. This flow consists of three layers of inviscid fluid, with fluid interfaces at \(z = \pm 1\). The outer two flows have idental constant velocity, say \(U_{2}\), while the inner flow has constant velocity \(U_{1}\). If the inner flow moves faster than the outer flow, we have a jet, otherwise we have a wake. An advantage of using this flow profile is that it allows us to write down explicit dispersion relations for our flow, where we would otherwise have to calculate modes of instability numerically if we were to consider a smoother flow profile. 
 </p>
 
-<p> Before we continue with our discussion of the base flow and definind our dispersion relation, we should first discuss what we mean by dimensionless variables, such as the wall parameters \(m,d,B,T,K\), and the flow parameters \(\Lambda,h\). Therse variables have no dimensions associated them, they are just numbers. This is a branch of mathematics called Dimensional Analysis, and can be found in a number of text books and online.</p>
+<p> Before we continue with our discussion of the base flow and definind our dispersion relation, we should first discuss what we mean by dimensionless variables, such as the wall parameters \(m,d,B,T,K\), and the flow parameters \(\Lambda,h\). Therse variables have no dimensions associated them, they are just numbers. This is a branch of mathematics called Dimensional Analysis, and can be found in a number of text books and
+<a href="https://en.wikipedia.org/wiki/Dimensional_analysis">online.</a> </p>
 
 <p>Nondimensionalising a system has many advantages over using dimensional values. Firstly, we do not need to worry about units, like metres per second, or centimetres and such, as these are removed from the discussion. Furthermore, this method allows us to compare to the results of others, as long as we keep the dimenionless scheme consistent. 
 </p>
@@ -69,7 +73,7 @@ And sinuous modes
 where \(F = (\alpha (1-\Lambda)-\omega)^{2}\) and \(G = (\alpha (1+\Lambda)-\omega)^{2}\).
 </p>
 <p>
-Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves, represented by dashed black lines and red curves respectively in Fig.2. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase by \(\pi\), then we have symmetric or varicose modes For more on this, see references on the poster. 
+Now what do we mean by symmetric and anti-symmetric modes? Well, note that the fluid interfaces can carry their own waves, represented by dashed black lines and red curves respectively in Fig.2. If the waves at the upper and lower interface are in phase with each other, than we have anti-symmetric, or sinuous modes. When these waves are out of phase, we have symmetric or varicose modes For more on this, see references on the poster. 
 </p> 
 
 <figure>
