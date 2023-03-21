@@ -2,13 +2,17 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
+- jekyll-github-metadata
 github:
   is_project_page: false
-  
+
+layout: page   
 domain: Maths_PGR_Poster.github.io
 url: https://Maths_PGR_Poster.github.io 
 
-title: Poster Website 
-description: This is a place where I talk about my poster! #here I am writing a comment 
+title: The Effects of Compliance on the Stability of Jets and Wakes
+# description: This page acts as a supplement to the main poster, giving additional information about each section. #here I am writing a comment 
 
+math: true 
+kramdown:
+  math_engine: mathjax
