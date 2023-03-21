@@ -83,11 +83,19 @@ Now what do we mean by symmetric and anti-symmetric modes? Well, note that the f
 <p>
 Due to these fluid interfaces, the dominant instability that we see in this particular flow configuration is of 'Kelvin-Helmholtz' type. Examples of this form of instability can be found <a href="https://en.wikipedia.org/wiki/Kelvin%E2%80%93Helmholtz_instability">here</a>. These modes of absolute instability lead to a phenomena called vortex shedding, which can then lead to a global instability, effecting the entire flow. 
 </p>
-<!-- <h2 style="text-align: center;"> A Note on the Results </h2> -->
+<h2 style="text-align: center;"> Furture Work </h2>
+
+<p>In the future, we intend to break the symmetry of the flow, that is, we could either place the walls ar different distances from the flow centreline, or we could let the walls be non-identical in their behaviour. This could result in a flow with one rigid wall and one compliant wall, for example. </p>
+
+<p>By allowing the walls to be placed at different distanced away from the flow centreline, we will be able to highlight the influence of both asymmetry on the flow stability, but also the effects of a single compliant wall on the system. Removal of one wall, could remove stabilizing features that two walls are able to provide, leading to enhanced instability. Similar behaviour might be seen for when we take the walls to be non-identical, due to the different (de)stabilizing characteristics of each boundary.</p>
+
+<p>Finally, we would like to consider the effect of viscosity on this flow. By considering viscosity in the problem, we introduce boundary layers at each of the confining walls. It has been shown in the rigid wall case by Rees and Juniper [3] that at strong confinement, these boundary layers have a stabilizing effect on the flow, while at weaker confinement, this stabilization effect is not so pronounced. It would therefore be useful for us to know if these same effects are seen when the confining walls are compliant, or even if the symmetry of the flow has been broken.</p>
+
 
 <!-- </body> -->
 <!-- </html> -->
 <h2 style="text-align: center;"> References </h2> 
 
 1. P. G. Drazin. Introduction to hydrodynamic stability, volume 32. Cambridge University Press, 2002. <br>
-2. Briggs, Richard J, Electron-stream interaction with plasmas, MIT, 1964
+2. Briggs, Richard J, Electron-stream interaction with plasmas, MIT, 1964. 
+3. Rees, SJ and Juniper, MP, The effect of confinement on the stability of viscous planar jets and wakes, volume 656, Cambridge University Press, 2010.
